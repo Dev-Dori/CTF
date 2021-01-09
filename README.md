@@ -1,2 +1,2 @@
 # CTF
-CTF 풀이
+CTF WRITE UP
