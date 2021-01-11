@@ -1,4 +1,4 @@
-## Welcome to CTF
+## Welcome
 Bandit wargame write up - Levels 0-27
 
 
